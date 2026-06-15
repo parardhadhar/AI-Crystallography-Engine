@@ -78,20 +78,23 @@ This allows the AI to "hallucinate" the missing structural integrity of atoms hi
 ### 3. Crystallographic Morphology & LUT Generation
 To generate the Look-Up Table (LUT) datasets for FCC and BCC lattice structures, the engine natively computes diffraction conditions using fundamental crystallographic equations:
 
-- **Weiss Zone Law**: Ensures a plane $(hkl)$ belongs to the zone axis $[uvw]$:
-  $$
-  hu + kv + lw = 0
-  $$
+**Weiss Zone Law**: Ensures a plane $(hkl)$ belongs to the zone axis $[uvw]$:
 
-- **Interplanar Spacing (Cubic Systems)**: Used to calibrate scale and theoretical lattice parameters ($a$):
-  $$
-  d_{hkl} = \frac{a}{\sqrt{h^2 + k^2 + l^2}}
-  $$
+$$
+hu + kv + lw = 0
+$$
 
-- **Angle Between Planes**: Derived dynamically to match experimental diffraction spots:
-  $$
-  \cos \theta = \frac{h_1 h_2 + k_1 k_2 + l_1 l_2}{\sqrt{h_1^2 + k_1^2 + l_1^2} \sqrt{h_2^2 + k_2^2 + l_2^2}}
-  $$
+**Interplanar Spacing (Cubic Systems)**: Used to calibrate scale and theoretical lattice parameters ($a$):
+
+$$
+d_{hkl} = \frac{a}{\sqrt{h^2 + k^2 + l^2}}
+$$
+
+**Angle Between Planes**: Derived dynamically to match experimental diffraction spots:
+
+$$
+\cos \theta = \frac{h_1 h_2 + k_1 k_2 + l_1 l_2}{\sqrt{h_1^2 + k_1^2 + l_1^2} \sqrt{h_2^2 + k_2^2 + l_2^2}}
+$$
 
 ### 4. Burgers Vector & Invisibility Criterion ($\vec{g} \cdot \vec{b}$)
 For dislocations detected by the YOLO/SAM core, the magnitude and direction of the lattice distortion are analyzed using standard defect physics. 
