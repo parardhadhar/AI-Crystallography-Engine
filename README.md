@@ -47,7 +47,7 @@ Built with an Awwwards-quality cinematic UI, the studio bridges the gap between 
 
 | 📉 Traditional S/TEM Micrograph | 📈 TEM AI Studio Reconstruction |
 |:---:|:---:|
-| <img src="assets/before_image.png" width="450" alt="Before Image Placeholder"/> | <img src="assets/after_image.png" width="450" alt="After Image Placeholder"/> |
+| <img src="https://github.com/user-attachments/assets/0ffe9bcd-9c3d-4b25-8cab-24a77292f515" width="450" alt="Traditional S/TEM Micrograph"/> | <img src="https://github.com/user-attachments/assets/c18ee29b-bfce-4763-b159-2d1c2eb11ac9" width="450" alt="TEM AI Studio Reconstruction"/> |
 | *Raw, noisy lattice fringe image with poor contrast. Defects are virtually indistinguishable to the human eye.* | *Diffusion-denoised, perfectly segmented lattice anomalies. Defects isolated and masked instantly by AI.* |
 
 ---
