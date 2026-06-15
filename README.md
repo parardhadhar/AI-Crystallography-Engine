@@ -23,17 +23,17 @@
 
 <hr />
 
-## 📖 Table of Contents
-- [About The Project](#-about-the-project)
-- [Visual Impact: Before vs. After](#-visual-impact-before-vs-after)
-- [The Mathematics & Physics Engine](#-the-mathematics--physics-engine)
-- [System Pipeline & Architecture](#-system-pipeline--architecture)
-- [Deep Dive: Core Modules](#-deep-dive-core-modules)
-- [Getting Started](#-getting-started)
+## Table of Contents
+- [About The Project](#about-the-project)
+- [Visual Impact: Before vs. After](#visual-impact-before-vs-after)
+- [The Mathematics & Physics Engine](#the-mathematics--physics-engine)
+- [System Pipeline & Architecture](#system-pipeline--architecture)
+- [Deep Dive: Core Modules](#deep-dive-core-modules)
+- [Getting Started](#getting-started)
 
 ---
 
-## 🌟 About The Project
+## About The Project
 
 **TEM AI Studio** is a premium, desktop-grade SaaS application designed to revolutionize how materials scientists and physicists analyze S/TEM (Scanning/Transmission Electron Microscopy) micrographs. 
 
@@ -41,18 +41,18 @@ Built with an Awwwards-quality cinematic UI, the studio bridges the gap between 
 
 ---
 
-## 📸 Visual Impact: Before vs. After
+## Visual Impact: Before vs. After
 
 *Drag and drop your own images into the GitHub editor to replace these placeholders.*
 
-| 📉 Traditional S/TEM Micrograph | 📈 TEM AI Studio Reconstruction |
+| Traditional S/TEM Micrograph | TEM AI Studio Reconstruction |
 |:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/0ffe9bcd-9c3d-4b25-8cab-24a77292f515" width="450" alt="Traditional S/TEM Micrograph"/> | <img src="https://github.com/user-attachments/assets/c18ee29b-bfce-4763-b159-2d1c2eb11ac9" width="450" alt="TEM AI Studio Reconstruction"/> |
 | *Raw, noisy lattice fringe image with poor contrast. Defects are virtually indistinguishable to the human eye.* | *Diffusion-denoised, perfectly segmented lattice anomalies. Defects isolated and masked instantly by AI.* |
 
 ---
 
-## 🧮 The Mathematics & Physics Engine
+## The Mathematics & Physics Engine
 
 TEM AI Studio is built upon rigorous physics and mathematical modeling to ensure research-grade accuracy.
 
@@ -113,28 +113,28 @@ $$
 
 ---
 
-## ⚙️ System Pipeline & Architecture
+## System Pipeline & Architecture
 
 The system utilizes a decoupled, highly-performant architecture. 
 
 ```mermaid
 graph TD
-    subgraph Frontend ["🖥️ Cinematic Electron SaaS"]
+    subgraph Frontend ["Cinematic Electron SaaS"]
         UI[Interactive UI / Canvas]
         AI[Agentic Copilot Chat]
     end
 
-    subgraph Backend ["⚙️ Core FastAPI Router"]
+    subgraph Backend ["Core FastAPI Router"]
         API[RESTful Endpoints]
         L[LUT & Morphology Config]
     end
 
-    subgraph Physics_Engine ["⚛️ Pre & Post Processing"]
+    subgraph Physics_Engine ["Pre & Post Processing"]
         FFT[Real-Time 2D-FFT]
         BV[Burgers Vector Calc]
     end
 
-    subgraph AI_Inference_Core ["🧠 PyTorch Intelligence"]
+    subgraph AI_Inference_Core ["PyTorch Intelligence"]
         DIFF[Diffusion Models / Reconstruction]
         YOLO[YOLO Object Detection]
         SAM[SAM Segmenter]
@@ -153,7 +153,7 @@ graph TD
 
 ---
 
-## 🧩 Deep Dive: Core Modules
+## Deep Dive: Core Modules
 
 ### 1. The Inference Core (Diffusion Architecture)
 
@@ -185,7 +185,7 @@ Data is fed into an embedded **Agentic AI** powered by NVIDIA's `Llama-3.3-Nemot
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 * Node.js (v18+)
