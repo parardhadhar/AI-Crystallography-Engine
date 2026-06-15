@@ -191,20 +191,12 @@ Data is fed into an embedded **Agentic AI** powered by NVIDIA's `Llama-3.3-Nemot
 
 ## Dashboard UI & Screenshots
 
-<!-- Drag and drop your dashboard screenshots into the GitHub editor to replace these placeholders -->
-
 <div align="center">
-  <img src="assets/dashboard.png" alt="Dashboard View" width="800" />
+  <a href="https://freeimage.host/i/CnNLN72">
+    <img src="https://iili.io/CnNLN72.md.png" alt="Dashboard View" width="800" />
+  </a>
   <br/>
   <em>Main Analysis Dashboard & Cinematic UI</em>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="assets/fourier.png" alt="Fourier Transform Analysis" width="800" />
-  <br/>
-  <em>Real-Time FFT and Defect Isolation</em>
 </div>
 
 ---
