@@ -1,0 +1,277 @@
+/* =====================================================
+   TEM AI Studio – App Layout
+   ===================================================== */
+
+.studio-app {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  background: var(--bg-app);
+  position: relative;
+}
+
+/* Subtle, minimal background — no neon blobs */
+.studio-app::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background: radial-gradient(ellipse 80% 50% at 50% -20%, rgba(99,102,241,0.06), transparent);
+}
+
+/* ── HEADER ──────────────────────────────────────────── */
+.studio-header {
+  position: relative;
+  z-index: 20;
+  height: 52px;
+  background: var(--bg-panel);
+  border-bottom: 1px solid var(--border-light);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1.25rem;
+  gap: 1rem;
+  flex-shrink: 0;
+}
+
+.brand-logotype {
+  font-weight: 600;
+  font-size: 0.88rem;
+  letter-spacing: -0.01em;
+  color: var(--text-primary);
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.brand-logotype span { color: var(--text-tertiary); font-weight: 400; }
+
+/* ── TAB SWITCHER ─────────────────────────────────────── */
+.tab-switcher {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-md);
+  padding: 3px;
+}
+
+.tab-btn {
+  background: transparent;
+  border: none;
+  color: var(--text-tertiary);
+  font-size: 0.78rem;
+  font-weight: 500;
+  font-family: var(--font);
+  padding: 0.35rem 0.875rem;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: color 0.15s, background 0.15s;
+  white-space: nowrap;
+}
+
+.tab-btn:hover {
+  color: var(--text-secondary);
+  background: var(--bg-hover);
+}
+
+.tab-btn--active {
+  background: var(--accent-subtle);
+  color: var(--accent-text);
+  border: 1px solid rgba(99,102,241,0.2);
+}
+
+/* ── HEADER RIGHT ─────────────────────────────────────── */
+.header-right {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.status-badge {
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  background: var(--bg-surface);
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  border: 1px solid var(--border-light);
+  white-space: nowrap;
+}
+
+.status-badge--analyzing {
+  color: var(--yellow);
+  border-color: rgba(251,191,36,0.25);
+  background: rgba(251,191,36,0.06);
+  animation: pulse 1.5s ease infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.65; }
+}
+
+/* ── BODY ─────────────────────────────────────────────── */
+.studio-body {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex: 1;
+  height: calc(100vh - 52px);
+  overflow: hidden;
+}
+
+/* ── LEFT SIDEBAR ─────────────────────────────────────── */
+.studio-sidebar {
+  width: 272px;
+  flex-shrink: 0;
+  background: var(--bg-panel);
+  border-right: 1px solid var(--border-light);
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  z-index: 10;
+}
+
+.sidebar-section {
+  padding: 1.1rem;
+  border-bottom: 1px solid var(--border-light);
+}
+
+.sidebar-title {
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+  margin-bottom: 0.85rem;
+}
+
+.input-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.input-stack label {
+  font-size: 0.72rem;
+  color: var(--text-secondary);
+  margin-bottom: 0.15rem;
+  display: block;
+}
+
+/* Legend */
+.legend-list { display: flex; flex-direction: column; gap: 0.45rem; }
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+}
+
+.legend-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  /* Remove box-shadow glow */
+}
+
+/* ── MAIN CONTENT ─────────────────────────────────────── */
+.studio-main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background: var(--bg-app);
+}
+
+/* ── TAB PANELS ───────────────────────────────────────── */
+.tab-panel {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+.tab-panel--scroll { overflow-y: auto; }
+.tab-panel--chat   { overflow: hidden; }
+
+/* ── CANVAS PANEL ─────────────────────────────────────── */
+.canvas-full {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.25rem;
+  overflow: hidden;
+}
+
+.canvas-empty {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  color: var(--text-muted);
+  text-align: center;
+}
+
+.canvas-empty h3 { color: var(--text-secondary); margin: 0; font-size: 1rem; }
+.canvas-empty p  { margin: 0; font-size: 0.82rem; color: var(--text-tertiary); max-width: 300px; }
+
+/* ── INTRO SCREEN ─────────────────────────────────────── */
+.intro-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: var(--bg-app);
+}
+
+.intro-card {
+  background: var(--bg-panel);
+  padding: 3rem;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg);
+  border: 1px solid var(--border-light);
+  text-align: center;
+  max-width: 460px;
+}
+
+.start-btn {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  padding: 0.75rem 1.75rem;
+  border-radius: var(--radius);
+  font-size: 0.85rem;
+  font-weight: 500;
+  font-family: var(--font);
+  cursor: pointer;
+  transition: opacity 0.15s, transform 0.15s;
+  margin-top: 1.5rem;
+}
+
+.start-btn:hover { opacity: 0.88; transform: translateY(-1px); }
+
+/* ── ANIMATIONS ───────────────────────────────────────── */
+.animate-in  { animation: fadeSlideIn 0.35s var(--ease) both; }
+.delay-1 { animation-delay: 0.05s; }
+.delay-2 { animation-delay: 0.10s; }
+.delay-3 { animation-delay: 0.15s; }
+
+@keyframes fadeSlideIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}

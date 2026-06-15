@@ -1,0 +1,164 @@
+/* CalibrationModal — clean professional modal */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.7);
+  backdrop-filter: blur(8px);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: fadeIn 0.2s ease-out;
+}
+
+.modal-container {
+  background: #111113;
+  border: 1px solid var(--border-medium);
+  border-radius: var(--radius-lg);
+  width: 90%;
+  max-width: 560px;
+  padding: 2rem;
+  box-shadow: var(--shadow-lg);
+  animation: slideUp 0.3s var(--ease);
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  max-height: 90vh;
+  overflow-y: auto;
+}
+
+.modal-header { text-align: center; }
+
+.modal-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin: 0 0 0.4rem;
+  letter-spacing: -0.02em;
+}
+
+.modal-subtitle {
+  font-size: 0.82rem;
+  color: var(--text-tertiary);
+  margin: 0;
+}
+
+.modal-body {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.modal-input-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.modal-input-group label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Inputs and selects inside the modal */
+.modal-input-group select,
+.modal-input-group input[type="text"],
+.modal-input-group input[type="number"] {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius);
+  padding: 0.65rem 0.875rem;
+  color: var(--text-primary);
+  font-family: var(--font);
+  font-size: 0.875rem;
+  transition: border-color 0.15s;
+}
+
+.modal-input-group select option {
+  background: #1c1c1e;
+  color: var(--text-primary);
+}
+
+.modal-input-group select:focus,
+.modal-input-group input:focus {
+  outline: none;
+  border-color: var(--border-focus);
+  background: var(--bg-surface-2);
+}
+
+.modal-footer {
+  display: flex;
+  gap: 0.75rem;
+}
+
+.modal-btn {
+  flex: 1;
+  padding: 0.75rem;
+  border-radius: var(--radius);
+  font-weight: 500;
+  font-size: 0.875rem;
+  font-family: var(--font);
+  cursor: pointer;
+  transition: opacity 0.15s, background 0.15s;
+  border: none;
+}
+
+.modal-btn.cancel {
+  background: var(--bg-surface);
+  color: var(--text-secondary);
+  border: 1px solid var(--border-light);
+}
+
+.modal-btn.cancel:hover { background: var(--bg-hover); }
+
+.modal-btn.primary {
+  background: var(--accent);
+  color: #fff;
+}
+
+.modal-btn.primary:hover { opacity: 0.88; }
+
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(16px) scale(0.97); }
+  to   { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+/* φ Rotation box — toned down, no neon indigo */
+.phi-box {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-md);
+  padding: 0.875rem 1rem;
+}
+
+.phi-box__title {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-bottom: 0.35rem;
+}
+
+.phi-badge {
+  background: var(--bg-surface-2);
+  border: 1px solid var(--border-medium);
+  border-radius: var(--radius-sm);
+  padding: 1px 9px;
+  font-family: var(--font-mono);
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  margin-left: auto;
+}
+
+.phi-box__desc {
+  font-size: 0.75rem;
+  color: var(--text-tertiary);
+  line-height: 1.5;
+}

@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700&display=swap');
+
+/* ─────────────────────────────────────────────
+   DESIGN TOKENS — single source of truth
+   ───────────────────────────────────────────── */
+:root {
+  /* Backgrounds */
+  --bg-app:       #09090b;
+  --bg-panel:     rgba(17, 17, 19, 0.95);
+  --bg-surface:   rgba(255, 255, 255, 0.03);
+  --bg-surface-2: rgba(255, 255, 255, 0.055);
+  --bg-hover:     rgba(255, 255, 255, 0.06);
+
+  /* Text */
+  --text-primary:   #f4f4f5;
+  --text-secondary: #a1a1aa;
+  --text-tertiary:  #52525b;
+  --text-muted:     #3f3f46;
+
+  /* Borders */
+  --border-light:  rgba(255, 255, 255, 0.08);
+  --border-medium: rgba(255, 255, 255, 0.12);
+  --border-focus:  rgba(255, 255, 255, 0.3);
+
+  /* Accent — a single clean indigo, no neon */
+  --accent:        #6366f1;
+  --accent-subtle: rgba(99, 102, 241, 0.12);
+  --accent-text:   #a5b4fc;
+
+  /* Status */
+  --green:  #34d399;
+  --yellow: #fbbf24;
+  --red:    #f87171;
+
+  /* Typography */
+  --font: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-mono: 'SF Mono', 'Fira Mono', 'JetBrains Mono', monospace;
+
+  /* Radius */
+  --radius-sm: 4px;
+  --radius:    6px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.4);
+  --shadow-md: 0 4px 16px rgba(0,0,0,0.5);
+  --shadow-lg: 0 12px 40px rgba(0,0,0,0.6);
+
+  /* Ease */
+  --ease: cubic-bezier(0.16, 1, 0.3, 1);
+
+  /* Legacy aliases kept for backward compat */
+  --accent-color:  var(--accent);
+  --border-focus:  rgba(255,255,255,0.3);
+  --accent-glow:   none;
+  --shadow-studio: var(--shadow-md);
+  --shadow-pop:    var(--shadow-lg);
+  --ease-smooth:   var(--ease);
+}
+
+/* ─────────────────────────────────────────────
+   RESET
+   ───────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { font-size: 16px; }
+
+body {
+  font-family: var(--font);
+  background: var(--bg-app);
+  color: var(--text-primary);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+/* ─────────────────────────────────────────────
+   TYPOGRAPHY — flat, no gradients
+   ───────────────────────────────────────────── */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: var(--text-primary);
+  line-height: 1.25;
+}
+
+::selection { background: var(--accent); color: #fff; }
+
+/* ─────────────────────────────────────────────
+   FORM ELEMENTS — dropdown fix (critical)
+   ───────────────────────────────────────────── */
+input,
+select,
+textarea {
+  font-family: var(--font);
+  background: var(--bg-surface);
+  border: 1px solid var(--border-light);
+  color: var(--text-primary);
+  padding: 0.6rem 0.875rem;
+  font-size: 0.85rem;
+  font-weight: 400;
+  width: 100%;
+  border-radius: var(--radius);
+  transition: border-color 0.15s, background 0.15s;
+  outline: none;
+  appearance: auto;
+}
+
+input:hover, select:hover { border-color: var(--border-medium); }
+
+input:focus, select:focus, textarea:focus {
+  border-color: var(--border-focus);
+  background: var(--bg-surface-2);
+}
+
+input::placeholder, textarea::placeholder { color: var(--text-tertiary); }
+
+/* This is the critical dropdown option fix for Windows */
+select option {
+  background: #1c1c1e;
+  color: var(--text-primary);
+}
+
+/* ─────────────────────────────────────────────
+   SCROLLBARS
+   ───────────────────────────────────────────── */
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 10px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(255,255,255,0.2); }
+
+/* ─────────────────────────────────────────────
+   UTILITIES
+   ───────────────────────────────────────────── */
+.animate-in  { animation: fadeUp 0.35s var(--ease) both; }
+.delay-1     { animation-delay: 0.05s; }
+.delay-2     { animation-delay: 0.10s; }
+.delay-3     { animation-delay: 0.15s; }
+.delay-4     { animation-delay: 0.20s; }
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ─────────────────────────────────────────────
+   CINEMATIC TRANSITIONS — used by IntroScreen
+   ───────────────────────────────────────────── */
+
+/* Netflix zoom-out exit — fires when INITIALIZE WORKSPACE is clicked */
+.netflix-zoom-exit {
+  animation: netflixZoom 1s cubic-bezier(0.8, 0, 0.2, 1) forwards;
+  pointer-events: none;
+}
+
+@keyframes netflixZoom {
+  0%   { transform: scale(1);   opacity: 1; filter: blur(0px); }
+  100% { transform: scale(2.5); opacity: 0; filter: blur(20px); }
+}
+
+/* Scroll-up entrance (used for step transitions) */
+.netflix-scroll-up {
+  animation: scrollUpNetflix 1.2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  opacity: 0;
+}
+
+@keyframes scrollUpNetflix {
+  0%   { transform: translateY(100vh); opacity: 0; }
+  100% { transform: translateY(0);     opacity: 1; }
+}
+

@@ -1,0 +1,1009 @@
+Zone_Axis_B,Diffraction_Vector_g,Loop_Family,Variant_Name,Visibility_gb,Morphology,Aspect_Ratio,AI_UI_Classification,UI_Color_Hex
+"[1, 0, 0]","[0, 2, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, 0]","[0, 2, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, 0]","[0, 2, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, 0]","[0, 2, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, 0]","[0, 2, 0]",<100>,[100],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, 0, 0]","[0, 2, 0]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, 0]","[0, 2, 0]",<100>,[001],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[1, 0, 0]","[0, -2, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, 0]","[0, -2, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, 0]","[0, -2, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, 0]","[0, -2, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, 0]","[0, -2, 0]",<100>,[100],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, 0, 0]","[0, -2, 0]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, 0]","[0, -2, 0]",<100>,[001],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[1, 0, 0]","[0, 0, 2]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, 0]","[0, 0, 2]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, 0]","[0, 0, 2]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, 0]","[0, 0, 2]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, 0]","[0, 0, 2]",<100>,[100],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, 0, 0]","[0, 0, 2]",<100>,[010],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[1, 0, 0]","[0, 0, 2]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, 0]","[0, 0, -2]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, 0]","[0, 0, -2]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, 0]","[0, 0, -2]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, 0]","[0, 0, -2]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, 0]","[0, 0, -2]",<100>,[100],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, 0, 0]","[0, 0, -2]",<100>,[010],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[1, 0, 0]","[0, 0, -2]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, 0]","[0, 1, 1]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, 0]","[0, 1, 1]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, 0]","[0, 1, 1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, 0, 0]","[0, 1, 1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, 0, 0]","[0, 1, 1]",<100>,[100],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, 0, 0]","[0, 1, 1]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, 0]","[0, 1, 1]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, 0]","[0, -1, 1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, 0, 0]","[0, -1, 1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, 0, 0]","[0, -1, 1]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, 0]","[0, -1, 1]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, 0]","[0, -1, 1]",<100>,[100],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, 0, 0]","[0, -1, 1]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, 0]","[0, -1, 1]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, 0]","[0, 1, -1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, 0, 0]","[0, 1, -1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, 0, 0]","[0, 1, -1]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, 0]","[0, 1, -1]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, 0]","[0, 1, -1]",<100>,[100],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, 0, 0]","[0, 1, -1]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, 0]","[0, 1, -1]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, 0]","[0, -1, -1]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, 0]","[0, -1, -1]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, 0]","[0, -1, -1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, 0, 0]","[0, -1, -1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, 0, 0]","[0, -1, -1]",<100>,[100],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, 0, 0]","[0, -1, -1]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, 0]","[0, -1, -1]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, 0]","[0, 2, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, 0]","[0, 2, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, 0]","[0, 2, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, 0]","[0, 2, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, 0]","[0, 2, 0]",<100>,[100],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, 0, 0]","[0, 2, 0]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, 0]","[0, 2, 0]",<100>,[001],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[-1, 0, 0]","[0, -2, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, 0]","[0, -2, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, 0]","[0, -2, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, 0]","[0, -2, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, 0]","[0, -2, 0]",<100>,[100],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, 0, 0]","[0, -2, 0]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, 0]","[0, -2, 0]",<100>,[001],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[-1, 0, 0]","[0, 0, 2]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, 0]","[0, 0, 2]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, 0]","[0, 0, 2]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, 0]","[0, 0, 2]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, 0]","[0, 0, 2]",<100>,[100],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, 0, 0]","[0, 0, 2]",<100>,[010],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[-1, 0, 0]","[0, 0, 2]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, 0]","[0, 0, -2]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, 0]","[0, 0, -2]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, 0]","[0, 0, -2]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, 0]","[0, 0, -2]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, 0]","[0, 0, -2]",<100>,[100],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, 0, 0]","[0, 0, -2]",<100>,[010],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[-1, 0, 0]","[0, 0, -2]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, 0]","[0, 1, 1]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, 0]","[0, 1, 1]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, 0]","[0, 1, 1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, 0, 0]","[0, 1, 1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, 0, 0]","[0, 1, 1]",<100>,[100],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, 0, 0]","[0, 1, 1]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, 0]","[0, 1, 1]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, 0]","[0, -1, 1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, 0, 0]","[0, -1, 1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, 0, 0]","[0, -1, 1]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, 0]","[0, -1, 1]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, 0]","[0, -1, 1]",<100>,[100],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, 0, 0]","[0, -1, 1]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, 0]","[0, -1, 1]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, 0]","[0, 1, -1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, 0, 0]","[0, 1, -1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, 0, 0]","[0, 1, -1]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, 0]","[0, 1, -1]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, 0]","[0, 1, -1]",<100>,[100],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, 0, 0]","[0, 1, -1]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, 0]","[0, 1, -1]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, 0]","[0, -1, -1]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, 0]","[0, -1, -1]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, 0]","[0, -1, -1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, 0, 0]","[0, -1, -1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, 0, 0]","[0, -1, -1]",<100>,[100],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, 0, 0]","[0, -1, -1]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, 0]","[0, -1, -1]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, 0]","[2, 0, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, 0]","[2, 0, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, 0]","[2, 0, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, 0]","[2, 0, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, 0]","[2, 0, 0]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, 0]","[2, 0, 0]",<100>,[010],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, 1, 0]","[2, 0, 0]",<100>,[001],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[0, 1, 0]","[-2, 0, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, 0]","[-2, 0, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, 0]","[-2, 0, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, 0]","[-2, 0, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, 0]","[-2, 0, 0]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, 0]","[-2, 0, 0]",<100>,[010],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, 1, 0]","[-2, 0, 0]",<100>,[001],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[0, 1, 0]","[0, 0, 2]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, 0]","[0, 0, 2]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, 0]","[0, 0, 2]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, 0]","[0, 0, 2]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, 0]","[0, 0, 2]",<100>,[100],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[0, 1, 0]","[0, 0, 2]",<100>,[010],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, 1, 0]","[0, 0, 2]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, 0]","[0, 0, -2]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, 0]","[0, 0, -2]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, 0]","[0, 0, -2]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, 0]","[0, 0, -2]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, 0]","[0, 0, -2]",<100>,[100],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[0, 1, 0]","[0, 0, -2]",<100>,[010],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, 1, 0]","[0, 0, -2]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, 0]","[1, 0, 1]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, 0]","[1, 0, 1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, 1, 0]","[1, 0, 1]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, 0]","[1, 0, 1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, 1, 0]","[1, 0, 1]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, 0]","[1, 0, 1]",<100>,[010],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, 1, 0]","[1, 0, 1]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, 0]","[-1, 0, 1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, 1, 0]","[-1, 0, 1]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, 0]","[-1, 0, 1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, 1, 0]","[-1, 0, 1]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, 0]","[-1, 0, 1]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, 0]","[-1, 0, 1]",<100>,[010],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, 1, 0]","[-1, 0, 1]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, 0]","[1, 0, -1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, 1, 0]","[1, 0, -1]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, 0]","[1, 0, -1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, 1, 0]","[1, 0, -1]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, 0]","[1, 0, -1]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, 0]","[1, 0, -1]",<100>,[010],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, 1, 0]","[1, 0, -1]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, 0]","[-1, 0, -1]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, 0]","[-1, 0, -1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, 1, 0]","[-1, 0, -1]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, 0]","[-1, 0, -1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, 1, 0]","[-1, 0, -1]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, 0]","[-1, 0, -1]",<100>,[010],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, 1, 0]","[-1, 0, -1]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, 0]","[2, 0, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, 0]","[2, 0, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, 0]","[2, 0, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, 0]","[2, 0, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, 0]","[2, 0, 0]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, 0]","[2, 0, 0]",<100>,[010],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, -1, 0]","[2, 0, 0]",<100>,[001],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[0, -1, 0]","[-2, 0, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, 0]","[-2, 0, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, 0]","[-2, 0, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, 0]","[-2, 0, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, 0]","[-2, 0, 0]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, 0]","[-2, 0, 0]",<100>,[010],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, -1, 0]","[-2, 0, 0]",<100>,[001],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[0, -1, 0]","[0, 0, 2]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, 0]","[0, 0, 2]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, 0]","[0, 0, 2]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, 0]","[0, 0, 2]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, 0]","[0, 0, 2]",<100>,[100],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[0, -1, 0]","[0, 0, 2]",<100>,[010],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, -1, 0]","[0, 0, 2]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, 0]","[0, 0, -2]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, 0]","[0, 0, -2]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, 0]","[0, 0, -2]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, 0]","[0, 0, -2]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, 0]","[0, 0, -2]",<100>,[100],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[0, -1, 0]","[0, 0, -2]",<100>,[010],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, -1, 0]","[0, 0, -2]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, 0]","[1, 0, 1]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, 0]","[1, 0, 1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, -1, 0]","[1, 0, 1]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, 0]","[1, 0, 1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, -1, 0]","[1, 0, 1]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, 0]","[1, 0, 1]",<100>,[010],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, -1, 0]","[1, 0, 1]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, 0]","[-1, 0, 1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, -1, 0]","[-1, 0, 1]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, 0]","[-1, 0, 1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, -1, 0]","[-1, 0, 1]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, 0]","[-1, 0, 1]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, 0]","[-1, 0, 1]",<100>,[010],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, -1, 0]","[-1, 0, 1]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, 0]","[1, 0, -1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, -1, 0]","[1, 0, -1]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, 0]","[1, 0, -1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, -1, 0]","[1, 0, -1]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, 0]","[1, 0, -1]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, 0]","[1, 0, -1]",<100>,[010],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, -1, 0]","[1, 0, -1]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, 0]","[-1, 0, -1]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, 0]","[-1, 0, -1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, -1, 0]","[-1, 0, -1]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, 0]","[-1, 0, -1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, -1, 0]","[-1, 0, -1]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, 0]","[-1, 0, -1]",<100>,[010],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, -1, 0]","[-1, 0, -1]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 0, 1]","[2, 0, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, 1]","[2, 0, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, 1]","[2, 0, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, 1]","[2, 0, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, 1]","[2, 0, 0]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 0, 1]","[2, 0, 0]",<100>,[010],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[0, 0, 1]","[2, 0, 0]",<100>,[001],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, 0, 1]","[-2, 0, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, 1]","[-2, 0, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, 1]","[-2, 0, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, 1]","[-2, 0, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, 1]","[-2, 0, 0]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 0, 1]","[-2, 0, 0]",<100>,[010],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[0, 0, 1]","[-2, 0, 0]",<100>,[001],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, 0, 1]","[0, 2, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, 1]","[0, 2, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, 1]","[0, 2, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, 1]","[0, 2, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, 1]","[0, 2, 0]",<100>,[100],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[0, 0, 1]","[0, 2, 0]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 0, 1]","[0, 2, 0]",<100>,[001],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, 0, 1]","[0, -2, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, 1]","[0, -2, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, 1]","[0, -2, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, 1]","[0, -2, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, 1]","[0, -2, 0]",<100>,[100],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[0, 0, 1]","[0, -2, 0]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 0, 1]","[0, -2, 0]",<100>,[001],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, 0, 1]","[1, 1, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, 1]","[1, 1, 0]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, 0, 1]","[1, 1, 0]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, 0, 1]","[1, 1, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, 1]","[1, 1, 0]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 0, 1]","[1, 1, 0]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 0, 1]","[1, 1, 0]",<100>,[001],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, 0, 1]","[-1, 1, 0]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, 0, 1]","[-1, 1, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, 1]","[-1, 1, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, 1]","[-1, 1, 0]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, 0, 1]","[-1, 1, 0]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 0, 1]","[-1, 1, 0]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 0, 1]","[-1, 1, 0]",<100>,[001],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, 0, 1]","[1, -1, 0]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, 0, 1]","[1, -1, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, 1]","[1, -1, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, 1]","[1, -1, 0]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, 0, 1]","[1, -1, 0]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 0, 1]","[1, -1, 0]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 0, 1]","[1, -1, 0]",<100>,[001],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, 0, 1]","[-1, -1, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, 1]","[-1, -1, 0]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, 0, 1]","[-1, -1, 0]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, 0, 1]","[-1, -1, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, 1]","[-1, -1, 0]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 0, 1]","[-1, -1, 0]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 0, 1]","[-1, -1, 0]",<100>,[001],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, 0, -1]","[2, 0, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, -1]","[2, 0, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, -1]","[2, 0, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, -1]","[2, 0, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, -1]","[2, 0, 0]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 0, -1]","[2, 0, 0]",<100>,[010],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[0, 0, -1]","[2, 0, 0]",<100>,[001],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, 0, -1]","[-2, 0, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, -1]","[-2, 0, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, -1]","[-2, 0, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, -1]","[-2, 0, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, -1]","[-2, 0, 0]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 0, -1]","[-2, 0, 0]",<100>,[010],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[0, 0, -1]","[-2, 0, 0]",<100>,[001],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, 0, -1]","[0, 2, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, -1]","[0, 2, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, -1]","[0, 2, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, -1]","[0, 2, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, -1]","[0, 2, 0]",<100>,[100],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[0, 0, -1]","[0, 2, 0]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 0, -1]","[0, 2, 0]",<100>,[001],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, 0, -1]","[0, -2, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, -1]","[0, -2, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, -1]","[0, -2, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, -1]","[0, -2, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, -1]","[0, -2, 0]",<100>,[100],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[0, 0, -1]","[0, -2, 0]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 0, -1]","[0, -2, 0]",<100>,[001],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, 0, -1]","[1, 1, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, -1]","[1, 1, 0]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, 0, -1]","[1, 1, 0]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, 0, -1]","[1, 1, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, -1]","[1, 1, 0]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 0, -1]","[1, 1, 0]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 0, -1]","[1, 1, 0]",<100>,[001],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, 0, -1]","[-1, 1, 0]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, 0, -1]","[-1, 1, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, -1]","[-1, 1, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, -1]","[-1, 1, 0]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, 0, -1]","[-1, 1, 0]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 0, -1]","[-1, 1, 0]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 0, -1]","[-1, 1, 0]",<100>,[001],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, 0, -1]","[1, -1, 0]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, 0, -1]","[1, -1, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, -1]","[1, -1, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, -1]","[1, -1, 0]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, 0, -1]","[1, -1, 0]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 0, -1]","[1, -1, 0]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 0, -1]","[1, -1, 0]",<100>,[001],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, 0, -1]","[-1, -1, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, -1]","[-1, -1, 0]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, 0, -1]","[-1, -1, 0]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[0, 0, -1]","[-1, -1, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.577,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 0, -1]","[-1, -1, 0]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 0, -1]","[-1, -1, 0]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 0, -1]","[-1, -1, 0]",<100>,[001],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[0, 1, 1]","[2, 0, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, 1]","[2, 0, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, 1]","[2, 0, 0]",1/2<111>,1/2[1-11],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, 1]","[2, 0, 0]",1/2<111>,1/2[11-1],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, 1]","[2, 0, 0]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, 1]","[2, 0, 0]",<100>,[010],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[0, 1, 1]","[2, 0, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[0, 1, 1]","[-2, 0, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, 1]","[-2, 0, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, 1]","[-2, 0, 0]",1/2<111>,1/2[1-11],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, 1]","[-2, 0, 0]",1/2<111>,1/2[11-1],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, 1]","[-2, 0, 0]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, 1]","[-2, 0, 0]",<100>,[010],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[0, 1, 1]","[-2, 0, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[0, 1, 1]","[0, -1, 1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[0, 1, 1]","[0, -1, 1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[0, 1, 1]","[0, -1, 1]",1/2<111>,1/2[1-11],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, 1]","[0, -1, 1]",1/2<111>,1/2[11-1],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, 1]","[0, -1, 1]",<100>,[100],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[0, 1, 1]","[0, -1, 1]",<100>,[010],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[0, 1, 1]","[0, -1, 1]",<100>,[001],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[0, 1, 1]","[0, 1, -1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[0, 1, 1]","[0, 1, -1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[0, 1, 1]","[0, 1, -1]",1/2<111>,1/2[1-11],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, 1]","[0, 1, -1]",1/2<111>,1/2[11-1],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, 1]","[0, 1, -1]",<100>,[100],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[0, 1, 1]","[0, 1, -1]",<100>,[010],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[0, 1, 1]","[0, 1, -1]",<100>,[001],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[0, -1, 1]","[2, 0, 0]",1/2<111>,1/2[111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, 1]","[2, 0, 0]",1/2<111>,1/2[-111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, 1]","[2, 0, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, 1]","[2, 0, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, 1]","[2, 0, 0]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, 1]","[2, 0, 0]",<100>,[010],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[0, -1, 1]","[2, 0, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[0, -1, 1]","[-2, 0, 0]",1/2<111>,1/2[111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, 1]","[-2, 0, 0]",1/2<111>,1/2[-111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, 1]","[-2, 0, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, 1]","[-2, 0, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, 1]","[-2, 0, 0]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, 1]","[-2, 0, 0]",<100>,[010],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[0, -1, 1]","[-2, 0, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[0, -1, 1]","[0, 1, 1]",1/2<111>,1/2[111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, 1]","[0, 1, 1]",1/2<111>,1/2[-111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, 1]","[0, 1, 1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[0, -1, 1]","[0, 1, 1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[0, -1, 1]","[0, 1, 1]",<100>,[100],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[0, -1, 1]","[0, 1, 1]",<100>,[010],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[0, -1, 1]","[0, 1, 1]",<100>,[001],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[0, -1, 1]","[0, -1, -1]",1/2<111>,1/2[111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, 1]","[0, -1, -1]",1/2<111>,1/2[-111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, 1]","[0, -1, -1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[0, -1, 1]","[0, -1, -1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[0, -1, 1]","[0, -1, -1]",<100>,[100],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[0, -1, 1]","[0, -1, -1]",<100>,[010],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[0, -1, 1]","[0, -1, -1]",<100>,[001],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[0, 1, -1]","[2, 0, 0]",1/2<111>,1/2[111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, -1]","[2, 0, 0]",1/2<111>,1/2[-111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, -1]","[2, 0, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, -1]","[2, 0, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, -1]","[2, 0, 0]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, -1]","[2, 0, 0]",<100>,[010],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[0, 1, -1]","[2, 0, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[0, 1, -1]","[-2, 0, 0]",1/2<111>,1/2[111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, -1]","[-2, 0, 0]",1/2<111>,1/2[-111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, -1]","[-2, 0, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, -1]","[-2, 0, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, 1, -1]","[-2, 0, 0]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, -1]","[-2, 0, 0]",<100>,[010],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[0, 1, -1]","[-2, 0, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[0, 1, -1]","[0, 1, 1]",1/2<111>,1/2[111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, -1]","[0, 1, 1]",1/2<111>,1/2[-111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, -1]","[0, 1, 1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[0, 1, -1]","[0, 1, 1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[0, 1, -1]","[0, 1, 1]",<100>,[100],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[0, 1, -1]","[0, 1, 1]",<100>,[010],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[0, 1, -1]","[0, 1, 1]",<100>,[001],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[0, 1, -1]","[0, -1, -1]",1/2<111>,1/2[111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, -1]","[0, -1, -1]",1/2<111>,1/2[-111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, 1, -1]","[0, -1, -1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[0, 1, -1]","[0, -1, -1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[0, 1, -1]","[0, -1, -1]",<100>,[100],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[0, 1, -1]","[0, -1, -1]",<100>,[010],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[0, 1, -1]","[0, -1, -1]",<100>,[001],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[0, -1, -1]","[2, 0, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, -1]","[2, 0, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, -1]","[2, 0, 0]",1/2<111>,1/2[1-11],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, -1]","[2, 0, 0]",1/2<111>,1/2[11-1],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, -1]","[2, 0, 0]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, -1]","[2, 0, 0]",<100>,[010],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[0, -1, -1]","[2, 0, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[0, -1, -1]","[-2, 0, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, -1]","[-2, 0, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[0, -1, -1]","[-2, 0, 0]",1/2<111>,1/2[1-11],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, -1]","[-2, 0, 0]",1/2<111>,1/2[11-1],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, -1]","[-2, 0, 0]",<100>,[100],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, -1]","[-2, 0, 0]",<100>,[010],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[0, -1, -1]","[-2, 0, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[0, -1, -1]","[0, -1, 1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[0, -1, -1]","[0, -1, 1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[0, -1, -1]","[0, -1, 1]",1/2<111>,1/2[1-11],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, -1]","[0, -1, 1]",1/2<111>,1/2[11-1],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, -1]","[0, -1, 1]",<100>,[100],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[0, -1, -1]","[0, -1, 1]",<100>,[010],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[0, -1, -1]","[0, -1, 1]",<100>,[001],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[0, -1, -1]","[0, 1, -1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[0, -1, -1]","[0, 1, -1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[0, -1, -1]","[0, 1, -1]",1/2<111>,1/2[1-11],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, -1]","[0, 1, -1]",1/2<111>,1/2[11-1],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[0, -1, -1]","[0, 1, -1]",<100>,[100],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[0, -1, -1]","[0, 1, -1]",<100>,[010],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[0, -1, -1]","[0, 1, -1]",<100>,[001],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[1, 0, 1]","[0, 2, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, 1]","[0, 2, 0]",1/2<111>,1/2[-111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, 1]","[0, 2, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, 1]","[0, 2, 0]",1/2<111>,1/2[11-1],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, 1]","[0, 2, 0]",<100>,[100],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[1, 0, 1]","[0, 2, 0]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, 1]","[0, 2, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[1, 0, 1]","[0, -2, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, 1]","[0, -2, 0]",1/2<111>,1/2[-111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, 1]","[0, -2, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, 1]","[0, -2, 0]",1/2<111>,1/2[11-1],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, 1]","[0, -2, 0]",<100>,[100],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[1, 0, 1]","[0, -2, 0]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, 1]","[0, -2, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[1, 0, 1]","[-1, 0, 1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[1, 0, 1]","[-1, 0, 1]",1/2<111>,1/2[-111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, 1]","[-1, 0, 1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[1, 0, 1]","[-1, 0, 1]",1/2<111>,1/2[11-1],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, 1]","[-1, 0, 1]",<100>,[100],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[1, 0, 1]","[-1, 0, 1]",<100>,[010],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[1, 0, 1]","[-1, 0, 1]",<100>,[001],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[1, 0, 1]","[1, 0, -1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[1, 0, 1]","[1, 0, -1]",1/2<111>,1/2[-111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, 1]","[1, 0, -1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[1, 0, 1]","[1, 0, -1]",1/2<111>,1/2[11-1],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, 1]","[1, 0, -1]",<100>,[100],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[1, 0, 1]","[1, 0, -1]",<100>,[010],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[1, 0, 1]","[1, 0, -1]",<100>,[001],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[-1, 0, 1]","[0, 2, 0]",1/2<111>,1/2[111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, 1]","[0, 2, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, 1]","[0, 2, 0]",1/2<111>,1/2[1-11],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, 1]","[0, 2, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, 1]","[0, 2, 0]",<100>,[100],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[-1, 0, 1]","[0, 2, 0]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, 1]","[0, 2, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[-1, 0, 1]","[0, -2, 0]",1/2<111>,1/2[111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, 1]","[0, -2, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, 1]","[0, -2, 0]",1/2<111>,1/2[1-11],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, 1]","[0, -2, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, 1]","[0, -2, 0]",<100>,[100],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[-1, 0, 1]","[0, -2, 0]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, 1]","[0, -2, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[-1, 0, 1]","[1, 0, 1]",1/2<111>,1/2[111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, 1]","[1, 0, 1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[-1, 0, 1]","[1, 0, 1]",1/2<111>,1/2[1-11],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, 1]","[1, 0, 1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[-1, 0, 1]","[1, 0, 1]",<100>,[100],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[-1, 0, 1]","[1, 0, 1]",<100>,[010],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[-1, 0, 1]","[1, 0, 1]",<100>,[001],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[-1, 0, 1]","[-1, 0, -1]",1/2<111>,1/2[111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, 1]","[-1, 0, -1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[-1, 0, 1]","[-1, 0, -1]",1/2<111>,1/2[1-11],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, 1]","[-1, 0, -1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[-1, 0, 1]","[-1, 0, -1]",<100>,[100],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[-1, 0, 1]","[-1, 0, -1]",<100>,[010],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[-1, 0, 1]","[-1, 0, -1]",<100>,[001],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[1, 0, -1]","[0, 2, 0]",1/2<111>,1/2[111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, -1]","[0, 2, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, -1]","[0, 2, 0]",1/2<111>,1/2[1-11],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, -1]","[0, 2, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, -1]","[0, 2, 0]",<100>,[100],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[1, 0, -1]","[0, 2, 0]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, -1]","[0, 2, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[1, 0, -1]","[0, -2, 0]",1/2<111>,1/2[111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, -1]","[0, -2, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, -1]","[0, -2, 0]",1/2<111>,1/2[1-11],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, -1]","[0, -2, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 0, -1]","[0, -2, 0]",<100>,[100],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[1, 0, -1]","[0, -2, 0]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, -1]","[0, -2, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[1, 0, -1]","[1, 0, 1]",1/2<111>,1/2[111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, -1]","[1, 0, 1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[1, 0, -1]","[1, 0, 1]",1/2<111>,1/2[1-11],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, -1]","[1, 0, 1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[1, 0, -1]","[1, 0, 1]",<100>,[100],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[1, 0, -1]","[1, 0, 1]",<100>,[010],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[1, 0, -1]","[1, 0, 1]",<100>,[001],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[1, 0, -1]","[-1, 0, -1]",1/2<111>,1/2[111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, -1]","[-1, 0, -1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[1, 0, -1]","[-1, 0, -1]",1/2<111>,1/2[1-11],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 0, -1]","[-1, 0, -1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[1, 0, -1]","[-1, 0, -1]",<100>,[100],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[1, 0, -1]","[-1, 0, -1]",<100>,[010],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[1, 0, -1]","[-1, 0, -1]",<100>,[001],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[-1, 0, -1]","[0, 2, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, -1]","[0, 2, 0]",1/2<111>,1/2[-111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, -1]","[0, 2, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, -1]","[0, 2, 0]",1/2<111>,1/2[11-1],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, -1]","[0, 2, 0]",<100>,[100],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[-1, 0, -1]","[0, 2, 0]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, -1]","[0, 2, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[-1, 0, -1]","[0, -2, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, -1]","[0, -2, 0]",1/2<111>,1/2[-111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, -1]","[0, -2, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 0, -1]","[0, -2, 0]",1/2<111>,1/2[11-1],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, -1]","[0, -2, 0]",<100>,[100],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[-1, 0, -1]","[0, -2, 0]",<100>,[010],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, -1]","[0, -2, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[-1, 0, -1]","[-1, 0, 1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[-1, 0, -1]","[-1, 0, 1]",1/2<111>,1/2[-111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, -1]","[-1, 0, 1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[-1, 0, -1]","[-1, 0, 1]",1/2<111>,1/2[11-1],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, -1]","[-1, 0, 1]",<100>,[100],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[-1, 0, -1]","[-1, 0, 1]",<100>,[010],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[-1, 0, -1]","[-1, 0, 1]",<100>,[001],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[-1, 0, -1]","[1, 0, -1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[-1, 0, -1]","[1, 0, -1]",1/2<111>,1/2[-111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, -1]","[1, 0, -1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[-1, 0, -1]","[1, 0, -1]",1/2<111>,1/2[11-1],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 0, -1]","[1, 0, -1]",<100>,[100],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[-1, 0, -1]","[1, 0, -1]",<100>,[010],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[-1, 0, -1]","[1, 0, -1]",<100>,[001],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[1, 1, 0]","[0, 0, 2]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 1, 0]","[0, 0, 2]",1/2<111>,1/2[-111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 1, 0]","[0, 0, 2]",1/2<111>,1/2[1-11],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 1, 0]","[0, 0, 2]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 1, 0]","[0, 0, 2]",<100>,[100],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[1, 1, 0]","[0, 0, 2]",<100>,[010],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[1, 1, 0]","[0, 0, 2]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 1, 0]","[0, 0, -2]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 1, 0]","[0, 0, -2]",1/2<111>,1/2[-111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 1, 0]","[0, 0, -2]",1/2<111>,1/2[1-11],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 1, 0]","[0, 0, -2]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 1, 0]","[0, 0, -2]",<100>,[100],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[1, 1, 0]","[0, 0, -2]",<100>,[010],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[1, 1, 0]","[0, 0, -2]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 1, 0]","[-1, 1, 0]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[1, 1, 0]","[-1, 1, 0]",1/2<111>,1/2[-111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 1, 0]","[-1, 1, 0]",1/2<111>,1/2[1-11],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 1, 0]","[-1, 1, 0]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[1, 1, 0]","[-1, 1, 0]",<100>,[100],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[1, 1, 0]","[-1, 1, 0]",<100>,[010],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[1, 1, 0]","[-1, 1, 0]",<100>,[001],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[1, 1, 0]","[1, -1, 0]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[1, 1, 0]","[1, -1, 0]",1/2<111>,1/2[-111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 1, 0]","[1, -1, 0]",1/2<111>,1/2[1-11],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, 1, 0]","[1, -1, 0]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[1, 1, 0]","[1, -1, 0]",<100>,[100],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[1, 1, 0]","[1, -1, 0]",<100>,[010],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[1, 1, 0]","[1, -1, 0]",<100>,[001],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[-1, 1, 0]","[0, 0, 2]",1/2<111>,1/2[111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 1, 0]","[0, 0, 2]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 1, 0]","[0, 0, 2]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 1, 0]","[0, 0, 2]",1/2<111>,1/2[11-1],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 1, 0]","[0, 0, 2]",<100>,[100],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[-1, 1, 0]","[0, 0, 2]",<100>,[010],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[-1, 1, 0]","[0, 0, 2]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 1, 0]","[0, 0, -2]",1/2<111>,1/2[111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 1, 0]","[0, 0, -2]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 1, 0]","[0, 0, -2]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 1, 0]","[0, 0, -2]",1/2<111>,1/2[11-1],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 1, 0]","[0, 0, -2]",<100>,[100],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[-1, 1, 0]","[0, 0, -2]",<100>,[010],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[-1, 1, 0]","[0, 0, -2]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 1, 0]","[1, 1, 0]",1/2<111>,1/2[111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 1, 0]","[1, 1, 0]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[-1, 1, 0]","[1, 1, 0]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[-1, 1, 0]","[1, 1, 0]",1/2<111>,1/2[11-1],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 1, 0]","[1, 1, 0]",<100>,[100],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[-1, 1, 0]","[1, 1, 0]",<100>,[010],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[-1, 1, 0]","[1, 1, 0]",<100>,[001],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[-1, 1, 0]","[-1, -1, 0]",1/2<111>,1/2[111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 1, 0]","[-1, -1, 0]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[-1, 1, 0]","[-1, -1, 0]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[-1, 1, 0]","[-1, -1, 0]",1/2<111>,1/2[11-1],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, 1, 0]","[-1, -1, 0]",<100>,[100],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[-1, 1, 0]","[-1, -1, 0]",<100>,[010],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[-1, 1, 0]","[-1, -1, 0]",<100>,[001],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[1, -1, 0]","[0, 0, 2]",1/2<111>,1/2[111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, -1, 0]","[0, 0, 2]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, -1, 0]","[0, 0, 2]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, -1, 0]","[0, 0, 2]",1/2<111>,1/2[11-1],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, -1, 0]","[0, 0, 2]",<100>,[100],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[1, -1, 0]","[0, 0, 2]",<100>,[010],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[1, -1, 0]","[0, 0, 2]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, -1, 0]","[0, 0, -2]",1/2<111>,1/2[111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, -1, 0]","[0, 0, -2]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, -1, 0]","[0, 0, -2]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, -1, 0]","[0, 0, -2]",1/2<111>,1/2[11-1],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, -1, 0]","[0, 0, -2]",<100>,[100],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[1, -1, 0]","[0, 0, -2]",<100>,[010],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[1, -1, 0]","[0, 0, -2]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, -1, 0]","[1, 1, 0]",1/2<111>,1/2[111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, -1, 0]","[1, 1, 0]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[1, -1, 0]","[1, 1, 0]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[1, -1, 0]","[1, 1, 0]",1/2<111>,1/2[11-1],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, -1, 0]","[1, 1, 0]",<100>,[100],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[1, -1, 0]","[1, 1, 0]",<100>,[010],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[1, -1, 0]","[1, 1, 0]",<100>,[001],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[1, -1, 0]","[-1, -1, 0]",1/2<111>,1/2[111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, -1, 0]","[-1, -1, 0]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[1, -1, 0]","[-1, -1, 0]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[1, -1, 0]","[-1, -1, 0]",1/2<111>,1/2[11-1],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[1, -1, 0]","[-1, -1, 0]",<100>,[100],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[1, -1, 0]","[-1, -1, 0]",<100>,[010],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[1, -1, 0]","[-1, -1, 0]",<100>,[001],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[-1, -1, 0]","[0, 0, 2]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, -1, 0]","[0, 0, 2]",1/2<111>,1/2[-111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, -1, 0]","[0, 0, 2]",1/2<111>,1/2[1-11],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, -1, 0]","[0, 0, 2]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, -1, 0]","[0, 0, 2]",<100>,[100],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[-1, -1, 0]","[0, 0, 2]",<100>,[010],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[-1, -1, 0]","[0, 0, 2]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, -1, 0]","[0, 0, -2]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, -1, 0]","[0, 0, -2]",1/2<111>,1/2[-111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, -1, 0]","[0, 0, -2]",1/2<111>,1/2[1-11],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, -1, 0]","[0, 0, -2]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.816,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, -1, 0]","[0, 0, -2]",<100>,[100],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[-1, -1, 0]","[0, 0, -2]",<100>,[010],Invisible,Inclined Ellipse,1:0.707,Background (Transparent),#00000000
+"[-1, -1, 0]","[0, 0, -2]",<100>,[001],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, -1, 0]","[-1, 1, 0]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[-1, -1, 0]","[-1, 1, 0]",1/2<111>,1/2[-111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, -1, 0]","[-1, 1, 0]",1/2<111>,1/2[1-11],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, -1, 0]","[-1, 1, 0]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[-1, -1, 0]","[-1, 1, 0]",<100>,[100],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[-1, -1, 0]","[-1, 1, 0]",<100>,[010],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[-1, -1, 0]","[-1, 1, 0]",<100>,[001],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[-1, -1, 0]","[1, -1, 0]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[-1, -1, 0]","[1, -1, 0]",1/2<111>,1/2[-111],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, -1, 0]","[1, -1, 0]",1/2<111>,1/2[1-11],Visible,Edge-On Line,0.000,Yellow (Edge-On),#FFFF00
+"[-1, -1, 0]","[1, -1, 0]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.816,Background (Transparent),#00000000
+"[-1, -1, 0]","[1, -1, 0]",<100>,[100],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[-1, -1, 0]","[1, -1, 0]",<100>,[010],Visible,Inclined Ellipse,1:0.707,Pink (<100> Ellipse),#FF00FF
+"[-1, -1, 0]","[1, -1, 0]",<100>,[001],Invisible,Edge-On Line,0.000,Background (Transparent),#00000000
+"[1, 1, 1]","[-1, 1, 0]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, 1, 1]","[-1, 1, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 1, 1]","[-1, 1, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 1, 1]","[-1, 1, 0]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[1, 1, 1]","[-1, 1, 0]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, 1, 1]","[-1, 1, 0]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, 1, 1]","[-1, 1, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, 1, 1]","[1, -1, 0]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, 1, 1]","[1, -1, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 1, 1]","[1, -1, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 1, 1]","[1, -1, 0]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[1, 1, 1]","[1, -1, 0]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, 1, 1]","[1, -1, 0]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, 1, 1]","[1, -1, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, 1, 1]","[-1, 0, 1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, 1, 1]","[-1, 0, 1]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 1, 1]","[-1, 0, 1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[1, 1, 1]","[-1, 0, 1]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 1, 1]","[-1, 0, 1]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, 1, 1]","[-1, 0, 1]",<100>,[010],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, 1, 1]","[-1, 0, 1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, 1, 1]","[1, 0, -1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, 1, 1]","[1, 0, -1]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 1, 1]","[1, 0, -1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[1, 1, 1]","[1, 0, -1]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 1, 1]","[1, 0, -1]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, 1, 1]","[1, 0, -1]",<100>,[010],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, 1, 1]","[1, 0, -1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, 1, 1]","[0, -1, 1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, 1, 1]","[0, -1, 1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[1, 1, 1]","[0, -1, 1]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 1, 1]","[0, -1, 1]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 1, 1]","[0, -1, 1]",<100>,[100],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, 1, 1]","[0, -1, 1]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, 1, 1]","[0, -1, 1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, 1, 1]","[0, 1, -1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, 1, 1]","[0, 1, -1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[1, 1, 1]","[0, 1, -1]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 1, 1]","[0, 1, -1]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 1, 1]","[0, 1, -1]",<100>,[100],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, 1, 1]","[0, 1, -1]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, 1, 1]","[0, 1, -1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, 1, 1]","[1, 1, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 1, 1]","[1, 1, 0]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, 1, 1]","[1, 1, 0]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[-1, 1, 1]","[1, 1, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 1, 1]","[1, 1, 0]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, 1, 1]","[1, 1, 0]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, 1, 1]","[1, 1, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, 1, 1]","[-1, -1, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 1, 1]","[-1, -1, 0]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, 1, 1]","[-1, -1, 0]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[-1, 1, 1]","[-1, -1, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 1, 1]","[-1, -1, 0]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, 1, 1]","[-1, -1, 0]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, 1, 1]","[-1, -1, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, 1, 1]","[1, 0, 1]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 1, 1]","[1, 0, 1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, 1, 1]","[1, 0, 1]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 1, 1]","[1, 0, 1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[-1, 1, 1]","[1, 0, 1]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, 1, 1]","[1, 0, 1]",<100>,[010],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, 1, 1]","[1, 0, 1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, 1, 1]","[-1, 0, -1]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 1, 1]","[-1, 0, -1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, 1, 1]","[-1, 0, -1]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 1, 1]","[-1, 0, -1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[-1, 1, 1]","[-1, 0, -1]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, 1, 1]","[-1, 0, -1]",<100>,[010],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, 1, 1]","[-1, 0, -1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, 1, 1]","[0, -1, 1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[-1, 1, 1]","[0, -1, 1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, 1, 1]","[0, -1, 1]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 1, 1]","[0, -1, 1]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 1, 1]","[0, -1, 1]",<100>,[100],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, 1, 1]","[0, -1, 1]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, 1, 1]","[0, -1, 1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, 1, 1]","[0, 1, -1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[-1, 1, 1]","[0, 1, -1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, 1, 1]","[0, 1, -1]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 1, 1]","[0, 1, -1]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 1, 1]","[0, 1, -1]",<100>,[100],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, 1, 1]","[0, 1, -1]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, 1, 1]","[0, 1, -1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, -1, 1]","[1, 1, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, -1, 1]","[1, 1, 0]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[1, -1, 1]","[1, 1, 0]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, -1, 1]","[1, 1, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, -1, 1]","[1, 1, 0]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, -1, 1]","[1, 1, 0]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, -1, 1]","[1, 1, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, -1, 1]","[-1, -1, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, -1, 1]","[-1, -1, 0]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[1, -1, 1]","[-1, -1, 0]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, -1, 1]","[-1, -1, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, -1, 1]","[-1, -1, 0]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, -1, 1]","[-1, -1, 0]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, -1, 1]","[-1, -1, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, -1, 1]","[-1, 0, 1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[1, -1, 1]","[-1, 0, 1]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, -1, 1]","[-1, 0, 1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, -1, 1]","[-1, 0, 1]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, -1, 1]","[-1, 0, 1]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, -1, 1]","[-1, 0, 1]",<100>,[010],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, -1, 1]","[-1, 0, 1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, -1, 1]","[1, 0, -1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[1, -1, 1]","[1, 0, -1]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, -1, 1]","[1, 0, -1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, -1, 1]","[1, 0, -1]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, -1, 1]","[1, 0, -1]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, -1, 1]","[1, 0, -1]",<100>,[010],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, -1, 1]","[1, 0, -1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, -1, 1]","[0, 1, 1]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, -1, 1]","[0, 1, 1]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, -1, 1]","[0, 1, 1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, -1, 1]","[0, 1, 1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[1, -1, 1]","[0, 1, 1]",<100>,[100],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, -1, 1]","[0, 1, 1]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, -1, 1]","[0, 1, 1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, -1, 1]","[0, -1, -1]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, -1, 1]","[0, -1, -1]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, -1, 1]","[0, -1, -1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, -1, 1]","[0, -1, -1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[1, -1, 1]","[0, -1, -1]",<100>,[100],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, -1, 1]","[0, -1, -1]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, -1, 1]","[0, -1, -1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, 1, -1]","[-1, 1, 0]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[1, 1, -1]","[-1, 1, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 1, -1]","[-1, 1, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 1, -1]","[-1, 1, 0]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, 1, -1]","[-1, 1, 0]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, 1, -1]","[-1, 1, 0]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, 1, -1]","[-1, 1, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, 1, -1]","[1, -1, 0]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[1, 1, -1]","[1, -1, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 1, -1]","[1, -1, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 1, -1]","[1, -1, 0]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, 1, -1]","[1, -1, 0]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, 1, -1]","[1, -1, 0]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, 1, -1]","[1, -1, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, 1, -1]","[1, 0, 1]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 1, -1]","[1, 0, 1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[1, 1, -1]","[1, 0, 1]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 1, -1]","[1, 0, 1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, 1, -1]","[1, 0, 1]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, 1, -1]","[1, 0, 1]",<100>,[010],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, 1, -1]","[1, 0, 1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, 1, -1]","[-1, 0, -1]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 1, -1]","[-1, 0, -1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[1, 1, -1]","[-1, 0, -1]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 1, -1]","[-1, 0, -1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, 1, -1]","[-1, 0, -1]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, 1, -1]","[-1, 0, -1]",<100>,[010],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, 1, -1]","[-1, 0, -1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, 1, -1]","[0, 1, 1]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 1, -1]","[0, 1, 1]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 1, -1]","[0, 1, 1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[1, 1, -1]","[0, 1, 1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, 1, -1]","[0, 1, 1]",<100>,[100],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, 1, -1]","[0, 1, 1]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, 1, -1]","[0, 1, 1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, 1, -1]","[0, -1, -1]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 1, -1]","[0, -1, -1]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, 1, -1]","[0, -1, -1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[1, 1, -1]","[0, -1, -1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, 1, -1]","[0, -1, -1]",<100>,[100],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, 1, -1]","[0, -1, -1]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, 1, -1]","[0, -1, -1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, -1, -1]","[-1, 1, 0]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, -1, -1]","[-1, 1, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, -1, -1]","[-1, 1, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, -1, -1]","[-1, 1, 0]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[-1, -1, -1]","[-1, 1, 0]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, -1, -1]","[-1, 1, 0]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, -1, -1]","[-1, 1, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, -1, -1]","[1, -1, 0]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, -1, -1]","[1, -1, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, -1, -1]","[1, -1, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, -1, -1]","[1, -1, 0]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[-1, -1, -1]","[1, -1, 0]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, -1, -1]","[1, -1, 0]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, -1, -1]","[1, -1, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, -1, -1]","[-1, 0, 1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, -1, -1]","[-1, 0, 1]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, -1, -1]","[-1, 0, 1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[-1, -1, -1]","[-1, 0, 1]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, -1, -1]","[-1, 0, 1]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, -1, -1]","[-1, 0, 1]",<100>,[010],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, -1, -1]","[-1, 0, 1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, -1, -1]","[1, 0, -1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, -1, -1]","[1, 0, -1]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, -1, -1]","[1, 0, -1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[-1, -1, -1]","[1, 0, -1]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, -1, -1]","[1, 0, -1]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, -1, -1]","[1, 0, -1]",<100>,[010],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, -1, -1]","[1, 0, -1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, -1, -1]","[0, -1, 1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, -1, -1]","[0, -1, 1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[-1, -1, -1]","[0, -1, 1]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, -1, -1]","[0, -1, 1]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, -1, -1]","[0, -1, 1]",<100>,[100],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, -1, -1]","[0, -1, 1]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, -1, -1]","[0, -1, 1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, -1, -1]","[0, 1, -1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, -1, -1]","[0, 1, -1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[-1, -1, -1]","[0, 1, -1]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, -1, -1]","[0, 1, -1]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, -1, -1]","[0, 1, -1]",<100>,[100],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, -1, -1]","[0, 1, -1]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, -1, -1]","[0, 1, -1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, -1, -1]","[1, 1, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, -1, -1]","[1, 1, 0]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, -1, -1]","[1, 1, 0]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[1, -1, -1]","[1, 1, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, -1, -1]","[1, 1, 0]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, -1, -1]","[1, 1, 0]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, -1, -1]","[1, 1, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, -1, -1]","[-1, -1, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, -1, -1]","[-1, -1, 0]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, -1, -1]","[-1, -1, 0]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[1, -1, -1]","[-1, -1, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, -1, -1]","[-1, -1, 0]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, -1, -1]","[-1, -1, 0]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, -1, -1]","[-1, -1, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, -1, -1]","[1, 0, 1]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, -1, -1]","[1, 0, 1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, -1, -1]","[1, 0, 1]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, -1, -1]","[1, 0, 1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[1, -1, -1]","[1, 0, 1]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, -1, -1]","[1, 0, 1]",<100>,[010],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, -1, -1]","[1, 0, 1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, -1, -1]","[-1, 0, -1]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, -1, -1]","[-1, 0, -1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, -1, -1]","[-1, 0, -1]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, -1, -1]","[-1, 0, -1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[1, -1, -1]","[-1, 0, -1]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, -1, -1]","[-1, 0, -1]",<100>,[010],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, -1, -1]","[-1, 0, -1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, -1, -1]","[0, -1, 1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[1, -1, -1]","[0, -1, 1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, -1, -1]","[0, -1, 1]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, -1, -1]","[0, -1, 1]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, -1, -1]","[0, -1, 1]",<100>,[100],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, -1, -1]","[0, -1, 1]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, -1, -1]","[0, -1, 1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, -1, -1]","[0, 1, -1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[1, -1, -1]","[0, 1, -1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[1, -1, -1]","[0, 1, -1]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, -1, -1]","[0, 1, -1]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[1, -1, -1]","[0, 1, -1]",<100>,[100],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[1, -1, -1]","[0, 1, -1]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[1, -1, -1]","[0, 1, -1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, 1, -1]","[1, 1, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 1, -1]","[1, 1, 0]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[-1, 1, -1]","[1, 1, 0]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, 1, -1]","[1, 1, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 1, -1]","[1, 1, 0]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, 1, -1]","[1, 1, 0]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, 1, -1]","[1, 1, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, 1, -1]","[-1, -1, 0]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 1, -1]","[-1, -1, 0]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[-1, 1, -1]","[-1, -1, 0]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, 1, -1]","[-1, -1, 0]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 1, -1]","[-1, -1, 0]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, 1, -1]","[-1, -1, 0]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, 1, -1]","[-1, -1, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, 1, -1]","[-1, 0, 1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[-1, 1, -1]","[-1, 0, 1]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 1, -1]","[-1, 0, 1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, 1, -1]","[-1, 0, 1]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 1, -1]","[-1, 0, 1]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, 1, -1]","[-1, 0, 1]",<100>,[010],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, 1, -1]","[-1, 0, 1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, 1, -1]","[1, 0, -1]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[-1, 1, -1]","[1, 0, -1]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 1, -1]","[1, 0, -1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, 1, -1]","[1, 0, -1]",1/2<111>,1/2[11-1],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 1, -1]","[1, 0, -1]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, 1, -1]","[1, 0, -1]",<100>,[010],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, 1, -1]","[1, 0, -1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, 1, -1]","[0, 1, 1]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 1, -1]","[0, 1, 1]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 1, -1]","[0, 1, 1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, 1, -1]","[0, 1, 1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[-1, 1, -1]","[0, 1, 1]",<100>,[100],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, 1, -1]","[0, 1, 1]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, 1, -1]","[0, 1, 1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, 1, -1]","[0, -1, -1]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 1, -1]","[0, -1, -1]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, 1, -1]","[0, -1, -1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, 1, -1]","[0, -1, -1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[-1, 1, -1]","[0, -1, -1]",<100>,[100],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, 1, -1]","[0, -1, -1]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, 1, -1]","[0, -1, -1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, -1, 1]","[-1, 1, 0]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[-1, -1, 1]","[-1, 1, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, -1, 1]","[-1, 1, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, -1, 1]","[-1, 1, 0]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, -1, 1]","[-1, 1, 0]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, -1, 1]","[-1, 1, 0]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, -1, 1]","[-1, 1, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, -1, 1]","[1, -1, 0]",1/2<111>,1/2[111],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[-1, -1, 1]","[1, -1, 0]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, -1, 1]","[1, -1, 0]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, -1, 1]","[1, -1, 0]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, -1, 1]","[1, -1, 0]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, -1, 1]","[1, -1, 0]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, -1, 1]","[1, -1, 0]",<100>,[001],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, -1, 1]","[1, 0, 1]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, -1, 1]","[1, 0, 1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[-1, -1, 1]","[1, 0, 1]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, -1, 1]","[1, 0, 1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, -1, 1]","[1, 0, 1]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, -1, 1]","[1, 0, 1]",<100>,[010],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, -1, 1]","[1, 0, 1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, -1, 1]","[-1, 0, -1]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, -1, 1]","[-1, 0, -1]",1/2<111>,1/2[-111],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[-1, -1, 1]","[-1, 0, -1]",1/2<111>,1/2[1-11],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, -1, 1]","[-1, 0, -1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, -1, 1]","[-1, 0, -1]",<100>,[100],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, -1, 1]","[-1, 0, -1]",<100>,[010],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, -1, 1]","[-1, 0, -1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, -1, 1]","[0, 1, 1]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, -1, 1]","[0, 1, 1]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, -1, 1]","[0, 1, 1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[-1, -1, 1]","[0, 1, 1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, -1, 1]","[0, 1, 1]",<100>,[100],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, -1, 1]","[0, 1, 1]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, -1, 1]","[0, 1, 1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, -1, 1]","[0, -1, -1]",1/2<111>,1/2[111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, -1, 1]","[0, -1, -1]",1/2<111>,1/2[-111],Visible,Inclined Ellipse,1:0.333,Cyan (1/2<111> Ellipse),#00FFFF
+"[-1, -1, 1]","[0, -1, -1]",1/2<111>,1/2[1-11],Invisible,Inclined Ellipse,1:0.333,Background (Transparent),#00000000
+"[-1, -1, 1]","[0, -1, -1]",1/2<111>,1/2[11-1],Invisible,Inclined Ellipse,1:1.000,Background (Transparent),#00000000
+"[-1, -1, 1]","[0, -1, -1]",<100>,[100],Invisible,Inclined Ellipse,1:0.577,Background (Transparent),#00000000
+"[-1, -1, 1]","[0, -1, -1]",<100>,[010],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF
+"[-1, -1, 1]","[0, -1, -1]",<100>,[001],Visible,Inclined Ellipse,1:0.577,Pink (<100> Ellipse),#FF00FF

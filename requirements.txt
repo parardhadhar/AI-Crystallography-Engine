@@ -1,0 +1,5 @@
+scikit-image
+opencv-python
+torch
+segment-anything
+pandas

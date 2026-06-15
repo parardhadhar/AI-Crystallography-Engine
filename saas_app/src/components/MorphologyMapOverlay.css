@@ -1,0 +1,117 @@
+/* ── Floating panel ─────────────────────────────────────────────────────────*/
+.morph-overlay {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  background: rgba(8, 12, 20, 0.82);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  padding: 16px;
+  color: #e2e8f0;
+  z-index: 50;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.6);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  user-select: none;
+  font-family: 'Inter', -apple-system, sans-serif;
+  transition: box-shadow 0.2s;
+}
+
+.morph-overlay:hover {
+  box-shadow: 0 12px 40px rgba(0,0,0,0.7);
+}
+
+.morph-overlay.dragging {
+  cursor: grabbing !important;
+  opacity: 0.92;
+  transition: none;
+}
+
+.morph-overlay.static-mode {
+  position: relative;
+  top: auto; right: auto;
+  box-shadow: none;
+  border: none;
+  background: transparent;
+  padding: 0;
+  backdrop-filter: none;
+}
+
+/* ── Title bar ──────────────────────────────────────────────────────────────*/
+.morph-overlay__title {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #94a3b8;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  margin-bottom: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.morph-overlay__phi {
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.1);
+  color: #e2e8f0;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.7rem;
+  font-weight: 500;
+  font-family: 'SF Mono', monospace;
+}
+
+/* ── SVG diagram ────────────────────────────────────────────────────────────*/
+.morph-overlay__svg {
+  overflow: visible;
+}
+
+/* ── Legend ─────────────────────────────────────────────────────────────────*/
+.morph-overlay__legend {
+  margin-top: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  width: 100%;
+  padding: 12px;
+  background: rgba(255,255,255,0.03);
+  border-radius: 6px;
+  border: 1px solid rgba(255,255,255,0.07);
+}
+
+.morph-legend-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.72rem;
+  color: #94a3b8;
+  font-weight: 400;
+}
+
+.morph-legend-item svg {
+  flex-shrink: 0;
+}
+
+/* ── Stats panel ────────────────────────────────────────────────────────────*/
+.morph-overlay__stats {
+  margin-top: 14px;
+  width: 100%;
+  padding-top: 14px;
+  border-top: 1px solid rgba(255, 255, 255, 0.07);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+}
+
+.morph-stat-title {
+  font-size: 0.68rem;
+  color: #64748b;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  font-weight: 600;
+}

@@ -1,0 +1,120 @@
+/* ── Root ─────────────────────────────────────────────────────────────────── */
+.lv-root {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  gap: 0;
+  font-family: 'Inter', -apple-system, sans-serif;
+  color: #e2e8f0;
+  background: #080c14;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid rgba(255,255,255,0.07);
+}
+
+/* ── Header ──────────────────────────────────────────────────────────────── */
+.lv-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 20px;
+  border-bottom: 1px solid rgba(255,255,255,0.07);
+  background: rgba(255,255,255,0.02);
+  flex-shrink: 0;
+}
+
+.lv-title {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #f1f5f9;
+  letter-spacing: -0.01em;
+  margin: 0 0 3px;
+}
+
+.lv-subtitle {
+  font-size: 0.72rem;
+  color: #475569;
+  margin: 0;
+}
+
+.lv-material-badge {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: #cbd5e1;
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.1);
+  padding: 4px 12px;
+  border-radius: 4px;
+}
+
+/* ── Canvas (fills all remaining space) ──────────────────────────────────── */
+.lv-canvas {
+  flex: 1;
+  min-height: 0;  /* critical for flex child to shrink */
+  position: relative;
+}
+
+.lv-canvas canvas {
+  display: block;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+/* ── Legend ───────────────────────────────────────────────────────────────── */
+.lv-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 20px;
+  padding: 12px 20px;
+  border-top: 1px solid rgba(255,255,255,0.07);
+  background: rgba(255,255,255,0.02);
+  flex-shrink: 0;
+}
+
+.lv-legend-item {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.lv-legend-dot {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.lv-legend-plane {
+  width: 16px;
+  height: 9px;
+  border-radius: 1px;
+  border: 1.5px solid transparent;
+  opacity: 0.6;
+  flex-shrink: 0;
+}
+
+.lv-legend-label {
+  font-size: 0.72rem;
+  color: #94a3b8;
+}
+
+/* ── Info strip ───────────────────────────────────────────────────────────── */
+.lv-info {
+  display: flex;
+  gap: 24px;
+  padding: 10px 20px;
+  border-top: 1px solid rgba(255,255,255,0.05);
+  background: rgba(0,0,0,0.2);
+  flex-shrink: 0;
+}
+
+.lv-info-item {
+  font-size: 0.73rem;
+  color: #64748b;
+}
+
+.lv-info-item strong {
+  color: #94a3b8;
+  font-weight: 600;
+}
