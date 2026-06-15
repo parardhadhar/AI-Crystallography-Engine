@@ -29,6 +29,7 @@
 - [The Mathematics & Physics Engine](#the-mathematics--physics-engine)
 - [System Pipeline & Architecture](#system-pipeline--architecture)
 - [Deep Dive: Core Modules](#deep-dive-core-modules)
+- [Dashboard UI & Screenshots](#dashboard-ui--screenshots)
 - [Getting Started](#getting-started)
 
 ---
@@ -185,6 +186,26 @@ Once reconstructed, the image is passed into a cascading detection pipeline:
 Data is fed into an embedded **Agentic AI** powered by NVIDIA's `Llama-3.3-Nemotron`. 
 - **Context-Aware:** The AI inherently knows the material system, g-vector, and zone axis you are analyzing.
 - **UI Control:** The AI can actively trigger UI actions on your behalf (e.g., turning on measurement tools or plotting graphs) by streaming specialized JSON payloads.
+
+---
+
+## Dashboard UI & Screenshots
+
+<!-- Drag and drop your dashboard screenshots into the GitHub editor to replace these placeholders -->
+
+<div align="center">
+  <img src="assets/dashboard.png" alt="Dashboard View" width="800" />
+  <br/>
+  <em>Main Analysis Dashboard & Cinematic UI</em>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/fourier.png" alt="Fourier Transform Analysis" width="800" />
+  <br/>
+  <em>Real-Time FFT and Defect Isolation</em>
+</div>
 
 ---
 
